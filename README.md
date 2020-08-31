@@ -6,3 +6,5 @@ Hello! I'm Nikolas Mosca. *Full Stack Web Developer* specializing in Back-end de
 - 🔭 I’m currently working on different projects as Fullstack Web Developer and I collaborate with Boolean Careers as Teacher Assistant
 - 🌱 I’m currently learning Node.js 
 - 📫 How to reach me: https://www.nks-developer.com/
+
+![](https://komarev.com/ghpvc/?username=NikolasMosca&label=📈+Number+Of+Visits&color=blue)
